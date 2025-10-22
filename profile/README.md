@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="../assets/capa_datacube.png" alt="Logo DataCube" width="600"/>
+<img src="../assets/capa_datacube.png" alt="Logo DataCube" width="800"/>
 
 [Website](https://datacube.com.br) • [LinkedIn](https://www.linkedin.com/company/datacube-sp) • contato@datacube.com.br
 
