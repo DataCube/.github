@@ -27,9 +27,9 @@ A **DataCube** existe para resolver problemas complexos de forma simples. Nossa 
 
 ## 🌱 Nossa Cultura
 
-**Propósito:** Capacitar empresas e profissionais com tecnologia eficiente e acessível.  
-**Visão:** Ser referência em automação e inteligência de dados.  
-**Valores:** Simplicidade, transparência, ética, colaboração e excelência.
+- **Propósito:** Capacitar empresas e profissionais com tecnologia eficiente e acessível.  
+- **Visão:** Ser referência em automação e inteligência de dados.  
+- **Valores:** Simplicidade, transparência, ética, colaboração e excelência.
 
 Acreditamos que **trabalho duro e diversão devem coexistir**. Nossa equipe é formada por pessoas apaixonadas por tecnologia, que compartilham conhecimento, experimentam novas abordagens e sempre buscam formas de inovar. Criamos um ambiente onde **cada voz importa** e cada ideia pode se tornar uma **solução de impacto**.
 
