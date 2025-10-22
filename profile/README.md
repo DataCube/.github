@@ -20,7 +20,7 @@ A **DataCube** existe para resolver problemas complexos de forma simples. Nossa 
 
 | Produto | Descrição |
 |----------|------------|
-| [**Consulta de Veículos**](https://consultasdeveiculos.com/) | Plataforma online para consultar histórico, situação e dados completos de veículos a partir da placa ou do Renavam. |
+| [**Consulta de Veículos**](https://consultasdeveiculos.com/) | Plataforma online para consultar histórico, situação e dados completos de veículos a partir de dados veiculares. |
 | [**DataCube API**](https://consultasdeveiculos.com/documentation) | API REST para integração de dados veiculares e empresariais em sistemas e aplicações personalizadas. |
 
 ---
